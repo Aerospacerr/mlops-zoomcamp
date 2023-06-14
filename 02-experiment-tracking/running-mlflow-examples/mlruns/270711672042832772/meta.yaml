@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/husey/Documents/GitHub/Formula1/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/270711672042832772
+creation_time: 1686761728174
+experiment_id: '270711672042832772'
+last_update_time: 1686761728174
+lifecycle_stage: active
+name: my-experiment-2

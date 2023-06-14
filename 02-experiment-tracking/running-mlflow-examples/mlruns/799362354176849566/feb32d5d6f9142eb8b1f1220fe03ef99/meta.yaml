@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/husey/Documents/GitHub/Formula1/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/799362354176849566/feb32d5d6f9142eb8b1f1220fe03ef99/artifacts
+end_time: 1686761194418
+entry_point_name: ''
+experiment_id: '799362354176849566'
+lifecycle_stage: active
+run_id: feb32d5d6f9142eb8b1f1220fe03ef99
+run_name: salty-elk-979
+run_uuid: feb32d5d6f9142eb8b1f1220fe03ef99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686761190337
+status: 3
+tags: []
+user_id: Emir

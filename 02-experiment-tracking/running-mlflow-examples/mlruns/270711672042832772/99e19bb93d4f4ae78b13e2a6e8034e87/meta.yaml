@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/husey/Documents/GitHub/Formula1/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/270711672042832772/99e19bb93d4f4ae78b13e2a6e8034e87/artifacts
+end_time: 1686761732382
+entry_point_name: ''
+experiment_id: '270711672042832772'
+lifecycle_stage: active
+run_id: 99e19bb93d4f4ae78b13e2a6e8034e87
+run_name: aged-whale-197
+run_uuid: 99e19bb93d4f4ae78b13e2a6e8034e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686761728199
+status: 3
+tags: []
+user_id: Emir

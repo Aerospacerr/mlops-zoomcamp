@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/husey/Documents/GitHub/Formula1/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/799362354176849566/365bab6607d94a019bb65e76b8533e27/artifacts
+end_time: 1686761726064
+entry_point_name: ''
+experiment_id: '799362354176849566'
+lifecycle_stage: active
+run_id: 365bab6607d94a019bb65e76b8533e27
+run_name: defiant-sheep-527
+run_uuid: 365bab6607d94a019bb65e76b8533e27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686761721586
+status: 3
+tags: []
+user_id: Emir

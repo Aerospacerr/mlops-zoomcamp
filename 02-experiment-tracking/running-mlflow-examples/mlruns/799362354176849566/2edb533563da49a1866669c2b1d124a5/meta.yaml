@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/husey/Documents/GitHub/Formula1/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/799362354176849566/2edb533563da49a1866669c2b1d124a5/artifacts
+end_time: 1686760603547
+entry_point_name: ''
+experiment_id: '799362354176849566'
+lifecycle_stage: active
+run_id: 2edb533563da49a1866669c2b1d124a5
+run_name: respected-mare-792
+run_uuid: 2edb533563da49a1866669c2b1d124a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686760598436
+status: 3
+tags: []
+user_id: Emir
